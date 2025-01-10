@@ -1,4 +1,4 @@
-#Description
+Description
   
   This project aims to profile the texting habits of participants in a sample Girls Whatsapp Groupchat and calculate their correlation to engagement. Through the exploration of various texting styles, and high frequency periods, the project aims to offer suggestions to maximize engagement.
   
@@ -90,10 +90,13 @@ The analysis provides a detailed view of group communication dynamics. It uncove
 
 
 Limitations
+
 One of the key limitations I faced during this analysis was maintaining privacy and respecting the personal nature of our group chat. To ensure anonymity, I had to modify the way I saved my friends' names on my phone, replacing them with pseudonyms or initials to prevent any sensitive information from being identifiable in the dataset. This step was crucial for ethical data handling but added extra work during the preprocessing phase.
 Additionally, analyzing personal conversations posed its own challenges, as I had to be mindful of the context and avoid drawing conclusions that might misrepresent the group's dynamics. While the analysis provided interesting insights, the personal nature of the data meant that certain nuances, such as sarcasm, humor, or deeper emotional undertones, could not be fully captured.
 I also had to exclude media files, images, and voice notes due to their sensitive nature, which might have limited the scope of the insights I could derive. Balancing privacy with meaningful analysis was a constant consideration, and I took every precaution to ensure that this process remained respectful to the members of the group.
+
 Future Work
+
 In the future, I would like to expand this analysis to include media files, such as images, videos, and voice notes, as they are a significant part of how we communicate in the group. These media interactions often carry important context and emotions that are missed when focusing solely on text-based messages. For instance, analyzing the frequency, type, and timing of media shared could provide deeper insights into how we engage and express ourselves as a group.
 To incorporate media files, I would need to find privacy-conscious ways to analyze them. For example, I could extract metadata like file type and timestamps without examining the actual content. If feasible, I might also use sentiment analysis on captions or text embedded within images and videos to capture additional context. However, I would still prioritize maintaining everyone's privacy by avoiding any intrusive or identifiable processing.
 Another area I would like to explore is integrating emoji analysis more deeply, as emojis are often used to enhance or change the tone of messages. By combining this with media analysis, I could create a more comprehensive picture of our communication style. Overall, expanding to include these aspects would make the analysis more holistic and insightful.
