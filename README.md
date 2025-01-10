@@ -1,4 +1,4 @@
-Description
+#Description
   
   This project aims to profile the texting habits of participants in a sample Girls Whatsapp Groupchat and calculate their correlation to engagement. Through the exploration of various texting styles, and high frequency periods, the project aims to offer suggestions to maximize engagement.
   
