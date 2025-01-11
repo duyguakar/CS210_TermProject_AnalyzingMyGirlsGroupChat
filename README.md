@@ -49,7 +49,7 @@ I aimed to choose a project as personal as possible to make sure the analyzing p
 
 ## **Data Source**
 
-My main source of data was the Whatsapp Chat export.The raw Whatsapp chat export without the preprocessing is stored inside raw_data. While the main source of data used is the Whatsapp Group Chat export, it can be categorized in the following subtitles:
+My main source of data was the Whatsapp Chat export.The raw Whatsapp chat export without the preprocessing is stored inside [raw_data](https://github.com/duyguakar/CS210_TermProject_AnalyzingMyGirlsGroupChat/blob/main/_chat.txt). While the main source of data used is the Whatsapp Group Chat export, it can be categorized in the following subtitles:
 
 **Timestamps:** When each message was sent. Senders: Names or identifiers of the participants who sent messages. 
 
@@ -61,7 +61,9 @@ Just like a typical Whatsapp group chat export the non-processed data contains m
 
 # **Data Processing**
 
-The final preprocessed data from the analysis of my girls' group chat includes several key elements that are cleaned, organized, and prepared for deeper insights. 
+The data preprocessing is documented [here](https://github.com/duyguakar/CS210_TermProject_AnalyzingMyGirlsGroupChat/blob/main/preprocessedata.ipynb).
+
+The [final preprocessed](https://github.com/duyguakar/CS210_TermProject_AnalyzingMyGirlsGroupChat/blob/main/final_chat_data.csv) data from the analysis of my girls' group chat includes several key elements that are cleaned, organized, and prepared for deeper insights. 
 
 It consists of a structured dataset with message timestamps, sender names, and the content of messages, stripped of any unnecessary formatting or media links. Timestamps are converted into a consistent format to analyze activity patterns by hour, day, and week. The data also includes a breakdown of message lengths, the frequency of emojis, and word usage patterns to study conversational tone and engagement. I categorize messages into reply threads to identify how conversations flow and whether certain topics trigger prolonged discussions. 
 
@@ -69,7 +71,7 @@ Additionally, metadata like the total number of messages per sender, response ti
 
 ## **Data Visualizations and Analysis**
 
-After my analysis, I uncovered some interesting insights about how we communicate. The results showed that the group is highly centralized, with a few members sending the majority of messages and acting as the core of the conversation. I noticed clear patterns in how active we are based on the time of day, with the most messages being sent in the evening, likely when we’re all winding down and catching up. I also found that certain topics triggered longer, more active discussions, while others were quickly acknowledged and moved on from. It was interesting to see how some members consistently initiated conversations, while others were more responsive. This analysis really gave me a deeper understanding of how we interact as a group and the dynamics of our chats—it’s not just random messages but a reflection of how close we are and how our daily routines influence when and how we talk.
+After my analysis, documented [here](https://github.com/duyguakar/CS210_TermProject_AnalyzingMyGirlsGroupChat/blob/main/Data_Analysis_and_Visualizations.ipynb), I uncovered some interesting insights about how we communicate. The results showed that the group is highly centralized, with a few members sending the majority of messages and acting as the core of the conversation. I noticed clear patterns in how active we are based on the time of day, with the most messages being sent in the evening, likely when we’re all winding down and catching up. I also found that certain topics triggered longer, more active discussions, while others were quickly acknowledged and moved on from. It was interesting to see how some members consistently initiated conversations, while others were more responsive. This analysis really gave me a deeper understanding of how we interact as a group and the dynamics of our chats—it’s not just random messages but a reflection of how close we are and how our daily routines influence when and how we talk.
 
 ## **Findings**
 
