@@ -31,7 +31,7 @@ NumPy - For numerical computations and data handling.
 - [**Data Source**](#data-source)
 - [**Data Processing**](#data-processing)
 - [**Data Visualizations and Analysis**](#data-visualizations-and-analysis)
-  - [Findings: Centrality Measures](#centrality-measures)
+  - [Findings: Centrality Measures](#findings-centrality-measures)
   - [Monthly Activity Trends](#monthly-activity-trends)
   - [Top Words Used](#top-words-used)
   - [Message Timing Patterns](#message-timing-patterns)
