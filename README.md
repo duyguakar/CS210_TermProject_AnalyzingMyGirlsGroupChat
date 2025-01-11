@@ -37,7 +37,7 @@ NumPy - For numerical computations and data handling.
   - [Message Timing Patterns](#message-timing-patterns)
   - [Response Time Distribution](#response-time-distribution)
   - [Message Length Distribution](#message-length-distribution)
-  - [Day vs. Night Activity](#day-vs-night-activity)
+  - [Day vs. Night Activity](#day-vs.-night-activity)
   - [Outgoing-to-Incoming Ratios to Analyze Group Dynamics](#outgoing-to-incoming-ratios)
 - [**Limitations**](#limitations)
 - [**Future Work**](#future-work)
