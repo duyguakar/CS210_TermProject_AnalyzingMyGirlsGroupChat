@@ -1,4 +1,6 @@
-# **Description**
+# **Analyzing My Girls Group Chat CS210 Project**
+
+## **Description**
 
 This project aims to profile the texting habits of participants in a sample Girls Whatsapp Groupchat and calculate their correlation to engagement. Through the exploration of various texting styles, and high frequency periods, the project aims to offer suggestions to maximize engagement.
 
@@ -6,7 +8,7 @@ Potential questions that will be inspected throughout the analysis are the compa
 
 In a greater context, profiling participants according to their previous interactions, texting styles, and keyword use might help constitute and manage groups that will maximize engagement.
 
-##**Tools**
+## **Tools**
 
 **Pandas** - For data cleaning and manipulation. 
 
@@ -41,11 +43,11 @@ NumPy - For numerical computations and data handling.
 - [**Future Work**](#future-work)
 
 
-##**Motivation**
+## **Motivation**
 
 I aimed to choose a project as personal as possible to make sure the analyzing process was fun. My Girls group chat, active day and night, has nearly been a support group for me and my high school friends over the years. As we opened up a new group to keep each other updated as one of our friends moved abroad, the opportunity of using the chat to analyze our dynamics for this project arised. I couldn’t think of a better source of consistent, reliable source of personal data. Through the motivation of this analysis, I plan to gain a greater perspective on our group dynamics, whether it’s the type of language used, or the textual habits that each member has established. As I am curious about gaining insights about each members’ texting behavior and habits, I plan to discover ways to improve engagement, and establish to tools increase the activity levels. Certainly this analysis will be our trend-topic in the upcoming meetings.
 
-##**Data Source**
+## **Data Source**
 
 My main source of data was the Whatsapp Chat export.The raw Whatsapp chat export without the preprocessing is stored inside raw_data. While the main source of data used is the Whatsapp Group Chat export, it can be categorized in the following subtitles:
 
@@ -57,7 +59,7 @@ My main source of data was the Whatsapp Chat export.The raw Whatsapp chat export
 
 Just like a typical Whatsapp group chat export the non-processed data contains metadata and message content. While the metadata contains the system messages and information such as group creation, and changes to the group names and descriptions, the message content includes the text messages as a whole. Particularly useful fields include the time stamp of the messages, the sender and the message body, emojis are included as a part of the message body.
 
-#**Data Processing**
+# **Data Processing**
 
 The final preprocessed data from the analysis of my girls' group chat includes several key elements that are cleaned, organized, and prepared for deeper insights. 
 
@@ -97,7 +99,7 @@ This analysis highlights how members balance sending and receiving messages. Som
 
 Conclusions The analysis provides a detailed view of group communication dynamics. It uncovers trends in activity, individual behaviors, and overall group patterns, offering insights into how the group interacts and evolves over time. These findings could be useful for enhancing engagement or simply better understanding the group’s behavior.
 
-##**Limitations**
+## **Limitations**
 
 One of the key limitations I faced during this analysis was maintaining privacy. To ensure anonymity, I had to modify the way I saved my friends' names on my phone, replacing them with pseudonyms or initials to prevent any sensitive information from being identifiable in the dataset. Still as I presnenetd my raw data, the group members names are visible althpugh with consent.
 
@@ -105,7 +107,7 @@ Additionally, analyzing personal conversations posed its own challenges,as I avo
 
 I also had to exclude media files, images, and voice notes due to their sensitive nature.
 
-#**Future Work**
+# **Future Work**
 
 **Media Analysis**
 
