@@ -71,7 +71,7 @@ Additionally, metadata like the total number of messages per sender, response ti
 
 After my analysis, I uncovered some interesting insights about how we communicate. The results showed that the group is highly centralized, with a few members sending the majority of messages and acting as the core of the conversation. I noticed clear patterns in how active we are based on the time of day, with the most messages being sent in the evening, likely when we’re all winding down and catching up. I also found that certain topics triggered longer, more active discussions, while others were quickly acknowledged and moved on from. It was interesting to see how some members consistently initiated conversations, while others were more responsive. This analysis really gave me a deeper understanding of how we interact as a group and the dynamics of our chats—it’s not just random messages but a reflection of how close we are and how our daily routines influence when and how we talk.
 
-##**Findings**
+## **Findings**
 
 **Centrality Measures**
  The centrality analysis reveals the roles members play in the group dynamics. Metrics like in-degree, out-degree, and betweenness centrality highlight who is most active, influential, or critical in maintaining communication flow. For instance, out-degree centrality identifies members who initiate conversations, while in-degree centrality shows those who receive the most responses. Although some memebers such as Defne and Gülbin ve more active, in-degree values (number of incoming interactions) were consistent across all users, and no user has an unusually high or low in-degree compared to others.
