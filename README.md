@@ -31,14 +31,14 @@ NumPy - For numerical computations and data handling.
 - [**Data Source**](#data-source)
 - [**Data Processing**](#data-processing)
 - [**Data Visualizations and Analysis**](#data-visualizations-and-analysis)
-  - [Findings: Centrality Measures](#findings-centrality-measures)
-  - [Monthly Activity Trends](#monthly-activity-trends)
-  - [Top Words Used](#top-words-used)
-  - [Message Timing Patterns](#message-timing-patterns)
-  - [Response Time Distribution](#response-time-distribution)
-  - [Message Length Distribution](#message-length-distribution)
-  - [Day vs. Night Activity](#day-vs.-night-activity)
-  - [Outgoing-to-Incoming Ratios to Analyze Group Dynamics](#outgoing-to-incoming-ratios)
+  - Findings: Centrality Measures
+  - Monthly Activity Trends
+  - Top Words Used
+  - Message Timing Patterns
+  - Response Time Distribution
+  - Message Length Distribution
+  - Day vs. Night Activity
+  - Outgoing-to-Incoming Ratios to Analyze Group Dynamics
 - [**Limitations**](#limitations)
 - [**Future Work**](#future-work)
 
