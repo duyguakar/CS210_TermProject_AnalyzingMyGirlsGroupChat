@@ -67,7 +67,7 @@ It consists of a structured dataset with message timestamps, sender names, and t
 
 Additionally, metadata like the total number of messages per sender, response times, and the overall volume of activity over time are included. This preprocessing ensures the data is ready for uncovering trends, group dynamics, and behavioral patterns. 
 
-**Data Analysis**
+**Data Visualizations and Analysis**
 
 After my analysis, I uncovered some interesting insights about how we communicate. The results showed that the group is highly centralized, with a few members sending the majority of messages and acting as the core of the conversation. I noticed clear patterns in how active we are based on the time of day, with the most messages being sent in the evening, likely when we’re all winding down and catching up. I also found that certain topics triggered longer, more active discussions, while others were quickly acknowledged and moved on from. It was interesting to see how some members consistently initiated conversations, while others were more responsive. This analysis really gave me a deeper understanding of how we interact as a group and the dynamics of our chats—it’s not just random messages but a reflection of how close we are and how our daily routines influence when and how we talk.
 
